@@ -1,4 +1,4 @@
-# 🌍 Bharat's Travel Website 2
+# 🌍 Bharat's Travel Website 
 
 A fully responsive and visually appealing travel website built using **HTML**, **CSS**, and **JavaScript**. This project showcases various travel destinations, booking options, animated sections, and a user-friendly interface — perfect for exploring and planning your next trip!
 
